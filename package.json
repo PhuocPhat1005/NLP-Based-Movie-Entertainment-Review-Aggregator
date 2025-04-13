@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cloudinary/url-gen": "^1.21.0",
+    "@neondatabase/serverless": "^1.0.0"
+  }
+}
