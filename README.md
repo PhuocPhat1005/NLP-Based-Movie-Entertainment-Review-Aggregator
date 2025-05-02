@@ -1,1 +1,1 @@
-# For model research
+# For user movie review data crawler

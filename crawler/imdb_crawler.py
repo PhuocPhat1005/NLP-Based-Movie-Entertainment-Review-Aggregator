@@ -309,7 +309,7 @@ def main():
 	movies = crawler.get_vietnamese_movies()
 	
 	# Save final results
-	output_file = './output/vietnamese_movies.json'
+	output_file = './output/.json'
 	with open(output_file, 'w', encoding='utf-8') as f:
 		json.dump(movies, f, ensure_ascii=False, indent=4)
 	
