@@ -1,0 +1,5 @@
+pandas>=2.2
+ydata-profiling>=4.5      # tên mới của pandas-profiling
+tqdm
+textdistance              # dùng cho near-duplicate check nhẹ
+great_expectations        # (optional) data-contract
