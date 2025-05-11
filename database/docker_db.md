@@ -1,6 +1,6 @@
 # Docker Commands for Checking and Initializing movie_reviews_dw
 
-Đây là bản tóm tắt các lệnh Docker để khởi tạo và kiểm tra trạng thái dữ liệu của cơ sở dữ liệu `movie-postgres` trong container `movie-postgres`. Các lệnh này rất quan trọng để quản lý và đảm bảo tính toàn vẹn dữ liệu trong dự án ABSA.
+Đây là bản tóm tắt các lệnh Docker để khởi tạo và kiểm tra trạng thái dữ liệu của cơ sở dữ liệu `movie-postgres` trong container `movie-postgres`. 
 
 | Command | Function | Sample Output | Where to Run |
 |---|---|---|---|

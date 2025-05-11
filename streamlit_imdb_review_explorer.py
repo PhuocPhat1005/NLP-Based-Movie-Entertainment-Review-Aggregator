@@ -36,7 +36,7 @@ ID_RE = re.compile(r"(tt\d{6,8})")
 DEFAULT_DSN = psycopg2.extensions.parse_dsn(
     os.getenv(
         "DATABASE_URL",
-        "postgresql://postgres:postgres@localhost:5432/postgres",
+        "postgresql://postgres:postgre2025@localhost:5432/movie_reviews_dw",
     )
 )
 
